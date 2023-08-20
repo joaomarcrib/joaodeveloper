@@ -1,0 +1,59 @@
+
+.container{
+	padding: 0px 50px;
+
+}
+
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+
+h1{
+	margin: 0;
+	padding: 0;
+
+}
+
+h2{
+	margin: 0;
+	padding: 0;
+
+}
+
+
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+img{
+	width: 150px;
+	height: 150px;
+	border-radius: 30%;
+	border: 5px solid gray;
+
+}
+
+.Center{
+	text-align: center;
+
+}
+
+nav a:hover {
+	color: green;
+
+}
+
